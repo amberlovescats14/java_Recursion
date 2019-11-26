@@ -24,8 +24,17 @@ public class Main {
 ////        System.out.println(sevens);
 
         //! COUNT 8
-        var eights = new Count8().getTotal(818);
-        System.out.println(eights);
+//        var eights = new Count8().getTotal(818);
+//        System.out.println(eights);
+
+        //! powerN
+//        var power = new PowerN().getPower(3,3);
+//        System.out.println(power);
+
+        //! COUNT X
+        var x = new CountX().getXAmount("xhixhix");
+        System.out.println(x);
+
 
     }
 }
