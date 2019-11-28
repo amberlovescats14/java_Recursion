@@ -1,4 +1,4 @@
-package com.amber;
+package com.CodingBat;
 
 public class Main {
 
@@ -32,8 +32,13 @@ public class Main {
 //        System.out.println(power);
 
         //! COUNT X
-        var x = new CountX().getXAmount("xhixhix");
-        System.out.println(x);
+//        var x = new CountX().getXAmount("xhixhix");
+//        System.out.println(x);
+
+
+        //! changePi
+        var piString = new ChangePi().getNewString("xpix");
+        System.out.println(piString);
 
 
     }

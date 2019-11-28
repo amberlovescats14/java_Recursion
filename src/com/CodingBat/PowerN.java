@@ -1,4 +1,4 @@
-package com.amber;
+package com.CodingBat;
 
 public class PowerN {
 

@@ -1,4 +1,4 @@
-package com.amber;
+package com.CodingBat;
 
 public class Factorials {
     public int getFactorials(int num){

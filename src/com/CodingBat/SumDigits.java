@@ -1,4 +1,4 @@
-package com.amber;
+package com.CodingBat;
 
 public class SumDigits {
     public int getSumOfDigits(int n){
