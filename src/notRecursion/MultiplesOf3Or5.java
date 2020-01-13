@@ -1,4 +1,4 @@
-package codewars;
+package notRecursion;
 
 public class MultiplesOf3Or5 {
     public static void main(String[] args) {
