@@ -1,6 +1,5 @@
 package notRecursion;
 
-import java.util.Arrays;
 
 public class VaysaClerk {
     public static void main(String[] args) {
