@@ -13,7 +13,7 @@ public class MaximumSubarray {
         if(filter.length == 0) return 0;
         if(filter.length == arr.length)
             return Arrays.stream(arr).reduce(0, Integer::sum);
-
+        return 0;
 
     }
 }
